@@ -1,0 +1,7 @@
+platform:ios,'8.0'
+target 'MushRoomLamp' do
+	pod 'AFNetworking','~>3.1.0'
+	pod 'SocketRocket','~>0.5.1'
+	pod 'UMengSocialCOM','~>5.2.1'
+end
+
